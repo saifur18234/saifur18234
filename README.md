@@ -23,7 +23,7 @@ I'm currently learning Next JS
 
 
 
-<!-- <h1 align="center">Hi 👋, I'm Md. Saifur Rahman Siddiki</h1>
+<h1 align="center">Hi 👋, I'm Md. Saifur Rahman Siddiki</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Next JS**
@@ -51,4 +51,4 @@ I'm currently learning Next JS
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifur18234&show_icons=true&locale=en" alt="saifur18234" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifur18234&" alt="saifur18234" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifur18234&" alt="saifur18234" /></p>
