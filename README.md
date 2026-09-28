@@ -19,12 +19,11 @@
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifur18234&show_icons=true&locale=en&layout=compact" alt="saifur18234" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifur18234&show_icons=true&locale=en&layout=compact" alt="saifur18234" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifur18234&show_icons=true&locale=en" alt="saifur18234" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifur18234&" alt="saifur18234" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifur18234&" alt="saifur18234" /></p> -->
