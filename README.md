@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./github-banner.png" alt="MD. Saifur Rahman GitHub Banner" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Md. Saifur Rahman Siddiki</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
